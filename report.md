@@ -8,8 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <https://github.com/DmitriiLife/java11/issues/2>
 * <https://github.com/DmitriiLife/java11/issues/1>
+* <https://github.com/DmitriiLife/java11/issues/2>
 * <ссылка на описание дефекта>
 
 ## Описание процесса тестирования
