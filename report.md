@@ -8,8 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <https://github.com/DmitriiLife/java11/issues/1>
-* <https://github.com/DmitriiLife/java11/issues/2>
+*[Первый][] <https://github.com/DmitriiLife/java11/issues/1>
+*[Второй][] <https://github.com/DmitriiLife/java11/issues/2>
 * <ссылка на описание дефекта>
 
 ## Описание процесса тестирования
@@ -36,4 +36,3 @@
 
 * <версия 10.15.7(19H1217) и MacOS Catalina 64 bit>
 * <версия "11.0.11" Java>
-* <другое ПО, при необходимости>
