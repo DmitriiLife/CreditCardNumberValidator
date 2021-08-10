@@ -11,7 +11,7 @@
 * [Первый](https://github.com/DmitriiLife/java11/issues/1)
 * [Второй](https://github.com/DmitriiLife/java11/issues/2)
 
-* Описание процесса тестирования:
+ Описание процесса тестирования:
 
 В качестве тестовых данных использовались [данные](https://www.getcreditcardnumbers.com): 
 
