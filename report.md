@@ -6,10 +6,10 @@
 
 На тестирование затрачено: <4 часа>
 
-В результате тестирования выявлены следующие дефекты*:
+## В результате тестирования выявлены следующие дефекты*:
 
-*[Первый](https://github.com/DmitriiLife/java11/issues/1)
-*[Второй](https://github.com/DmitriiLife/java11/issues/2)
+<*>[Первый](https://github.com/DmitriiLife/java11/issues/1)
+<*>[Второй](https://github.com/DmitriiLife/java11/issues/2)
 
 ## Описание процесса тестирования
 
