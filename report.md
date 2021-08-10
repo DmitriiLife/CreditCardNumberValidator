@@ -8,9 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-*[Первый][<https://github.com/DmitriiLife/java11/issues/1>]
-*[Второй][<https://github.com/DmitriiLife/java11/issues/2>]
-* <ссылка на описание дефекта>
+*[Первый](https://github.com/DmitriiLife/java11/issues/1)
+*[Второй](https://github.com/DmitriiLife/java11/issues/2)
 
 ## Описание процесса тестирования
 
@@ -24,7 +23,7 @@
 показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в
 задании.*
 
-В качестве тестовых данных использовались данные <https://www.getcreditcardnumbers.com>: 
+В качестве тестовых данных использовались [данные](https://www.getcreditcardnumbers.com): 
 
 * <Банковские карты American Express, "Результат в порядке"> 
 * <Банковские карты Mastercard, "Результат в порядке">
