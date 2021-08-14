@@ -8,18 +8,18 @@
 
  В результате тестирования выявлены следующие дефекты:
 
-* [Первый](https://github.com/DmitriiLife/java11/issues/1)
-* [Второй](https://github.com/DmitriiLife/java11/issues/2)
+* [Не работает с Diners Club](https://github.com/DmitriiLife/java11/issues/1)
+* [Не работает с American Express](https://github.com/DmitriiLife/java11/issues/2)
 
  Описание процесса тестирования:
 
 В качестве тестовых данных использовались [данные](https://www.getcreditcardnumbers.com): 
 
-* Банковские карты American Express, "Результат в порядке"
+* Банковские карты American Express, "Выявлен дефект"
 * Банковские карты Mastercard, "Результат в порядке"
 * Банковские карты Discover, "Результат в порядке"
 * Банковские карты Visa, "Результат в порядке"
-* Банковские карты Diners Club, "Результат в порядке"
+* Банковские карты Diners Club, "Выявлен дефект"
 
 Тестирование производилось в следующем окружении:
 
